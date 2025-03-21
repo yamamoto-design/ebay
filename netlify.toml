@@ -1,7 +1,6 @@
 [build]
-functions = "netlify/functions"
-publish = "/"
+  functions = "netlify/functions" # Path to your serverless PHP functions
+  publish = "." # The folder to publish, set it as the root
 
 [context.production.environment]
-# Specify the docker image for the serverless function
-DOCKER_IMAGE = "php:8.1-cli"
+  # Any environment variables you want to set for the PHP functions
