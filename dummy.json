@@ -1,0 +1,91 @@
+{
+  "productSummaries": [
+    {
+      "epid": "241111787",
+      "gtin": ["0642892801039", "0813917020203"],
+      "brand": "Nest",
+      "mpn": ["T3017US"],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/sLoAAOSw5KtaaHY5/$_6.JPG?set_id=89040003C1"
+      },
+      "aspects": [
+        {
+          "localizedName": "Brand",
+          "localizedValues": ["Nest"]
+        },
+        {
+          "localizedName": "Model",
+          "localizedValues": ["Nest Learning Thermostat (3rd Generation)"]
+        },
+        {
+          "localizedName": "MPN",
+          "localizedValues": ["T3017US"]
+        },
+        {
+          "localizedName": "User Interface",
+          "localizedValues": ["Digital"]
+        },
+        {
+          "localizedName": "Connected Home Compatibility",
+          "localizedValues": ["Nest"]
+        },
+        {
+          "localizedName": "Connected Home Protocol",
+          "localizedValues": ["Wi-Fi"]
+        },
+        {
+          "localizedName": "Color",
+          "localizedValues": ["White"]
+        }
+      ],
+      "ean": ["0642892801039", "0813917020203"],
+      "upc": ["0642892801039", "0813917020203"],
+      "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/241111787",
+      "title": "Nest 3rd Generation Learning White Programmable Thermostat"
+    },
+    {
+      "epid": "241104405",
+      "gtin": ["0813917020203"],
+      "brand": "Nest",
+      "mpn": ["T3017US_2PK"],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/00/s/MjU5WDUwMA==/z/aFUAAOSwIVhaLp6e/$_6.JPG?set_id=89040003C1"
+      },
+      "aspects": [
+        {
+          "localizedName": "Brand",
+          "localizedValues": ["Nest"]
+        },
+        {
+          "localizedName": "Model",
+          "localizedValues": ["Nest Learning Thermostat (3rd Generation)"]
+        },
+        {
+          "localizedName": "MPN",
+          "localizedValues": ["T3017US2PK"]
+        },
+        {
+          "localizedName": "User Interface",
+          "localizedValues": ["Digital"]
+        },
+        {
+          "localizedName": "Connected Home Compatibility",
+          "localizedValues": ["Nest"]
+        },
+        {
+          "localizedName": "Connected Home Protocol",
+          "localizedValues": ["Wi-Fi"]
+        },
+        {
+          "localizedName": "Color",
+          "localizedValues": ["White"]
+        }
+      ],
+      "ean": ["0813917020203"],
+      "upc": ["0813917020203"],
+      "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/241104405",
+      "title": "Nest 3rd Generation Learning White Programmable Thermostat 2 Pack"
+    }
+  ],
+  "limit": 50
+}
