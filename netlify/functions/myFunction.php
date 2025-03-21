@@ -1,9 +1,8 @@
 <?php
-// PHP Serverless Function for Netlify
+// netlify/functions/myFunction.php
 function handler($event) {
-    // Basic response
     return [
         'statusCode' => 200,
-        'body' => 'Hello from PHP Function!',
+        'body' => 'Hello from PHP function!'
     ];
 }
