@@ -1,0 +1,6 @@
+[build]
+  functions = "netlify/functions" # Path to the serverless functions
+  publish = "public"  # Directory where static files are located (empty for now)
+
+[context.production.environment]
+  NODE_VERSION = "16" # Optional, specify the node version
